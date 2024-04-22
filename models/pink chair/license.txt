@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gamergirl Gaming chair
+* source:	https://sketchfab.com/3d-models/gamergirl-gaming-chair-3bc9239fff0743e794e3b1b801ff3dcd
+* author:	akiprensky (https://sketchfab.com/akiprensky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gamergirl Gaming chair" (https://sketchfab.com/3d-models/gamergirl-gaming-chair-3bc9239fff0743e794e3b1b801ff3dcd) by akiprensky (https://sketchfab.com/akiprensky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
